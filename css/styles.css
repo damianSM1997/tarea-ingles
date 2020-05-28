@@ -10277,6 +10277,7 @@ header.masthead {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
+    max-height: 600px;
 }
 
 header.masthead .masthead-subheading {
