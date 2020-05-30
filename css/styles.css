@@ -10478,9 +10478,9 @@ header.masthead .masthead-heading {
     margin-left: 0;
     text-align: center;
     color: white;
-    border: 7px solid #e9ecef;
+    border: 7px solid #ffffff;
+    background-color: #ffffff;
     border-radius: 100%;
-    background-color: #fed136;
 }
 
 .timeline>li .timeline-image h4 {
